@@ -52,7 +52,7 @@
     "@types/node": "^12.12.28",
     "@types/node-telegram-bot-api": "^0.40.1",
     "@types/supertest": "^2.0.8",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "jest": "^24.9.0",
     "prettier": "^1.19.1",
     "supertest": "^4.0.2",
